@@ -234,6 +234,7 @@ A huge list of great stuff you can get for free!
 | [Elasticsearch](https://www.elastic.co/elasticsearch) | Elasticsearch is a distributed, RESTful search and analytics engine capable of addressing a growing number of use cases. |
 | [Firebase](https://firebase.google.com) | Firebase is an app development platform that helps you build and grow apps and games users love. Backed by Google and trusted by millions of businesses around the world. |
 | [MongoDB](https://www.mongodb.com) | MongoDB is an open source database server, for fast building, scalability and data security. They offer a free database plan on [MongoDB Cloud](https://cloud.mongodb.com). |
+| [Neon](https://neon.com) | Neon is an open-source serverless Postgres database platform. It separates storage and compute and substitutes the PostgreSQL storage layer by redistributing data across a cluster of nodes. |
 | [Nhost](https://nhost.io) | Nhost is an open-source backend and development platform that enables developers to build and scale their web and mobile apps. |
 | [MongoDB Realm](https://www.mongodb.com/docs/realm) | Realm is a mobile-first database designed for modern, data-driven applications. |
 | [MySQL](https://www.mysql.com) | Many of the world's largest and fastest-growing organizations including Facebook, Twitter, Booking.com, and Verizon rely on MySQL to save time and money powering their high-volume Web sites, business-critical systems and packaged software. |
@@ -283,6 +284,7 @@ A huge list of great stuff you can get for free!
 | [Open Domains](https://open-domains.net) | Free subdomains for personal sites, open-source projects, and more. | ✅ |
 | [Open Host](https://registry.openhost.uk) | A free subdomain service offering subdomains on `prvcy.page`, `16-b.it`, `32-b.it`, `64-b.it`, `pride.moe` and `pride.ngo`. | ⚠️ `pride.moe` and `pride.ngo` are not listed. |
 | [pp.ua](https://pp.ua) | Free pp.ua subdomains. | ✅ |
+| [PublicZone.org](https://publiczone.org) | Free subdomains across multiple SLDs (`.nyc.mn`, `.int.al`, `.cn.st` variants) funded through charitable donations or GitHub developers program (free domains for GitHub projects with 100+ stars) | ✅ `.nyc.mn`, `.cn.st` are listed. ⚠️ `.int.al` is not listed. |
 | [us.kg](https://nic.us.kg) | Free subdomain service run by the nonprofit DigitalPlat Foundation, supported by the Hack Foundation. | ✅ |
 | [Zone.ID](https://zone.id/) | Zone.ID is a premium subdomain provider as an alternative to the traditional .id TLD. | ✅ |
 
