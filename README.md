@@ -262,6 +262,7 @@ A huge list of great stuff you can get for free!
 | [Figma](https://www.figma.com) | Online, collaborative design tool for teams; the free tier includes unlimited files and viewers with a max of 2 editors and 3 projects. |
 | [Flowbite](https://flowbite.com) | A library of components built on top of the utility-classes from Tailwind CSS. |
 | [Haikei](https://haikei.app) | Haikei is a web app to generate stunning visual content – ready to use with your design tools and workflow. |
+| [Image and Video Compression](https://slingsite.github.io) | Unlimited free bulk compression of video and image for web use. For each device type, you will get all the modern formats for maximum performance and the legacy formats for compatibility. |
 | [Lunacy](https://icons8.com/lunacy) | Free design software that keeps your flow with AI tools and built-in graphics. |
 | [MDBootstrap](https://mdbootstrap.com) | Free for personal & commercial use Bootstrap, Angular, React, and Vue UI Kits with over 700 components, stunning templates, 1-min installation, extensive tutorials & huge community. |
 | [Photopea](https://photopea.com) | A free and online alternative to Adobe Photoshop and support for the `.psd` file format. |
@@ -278,10 +279,10 @@ A huge list of great stuff you can get for free!
 | [is-a-good.dev](https://is-a-good.dev) | A free `is-a-good.dev` subdomain for developers. | ✅ |
 | [JS.ORG](https://js.org) | Free js.org subdomains for GitHub Pages for the JavaScript community. | ✅ |
 | [NGO.us](https://nic.ngo.us) | Free `.ngo.us` subdomains for verified not-for-profit organizations, NGOs, and similar initiatives. | ✅ |
+| [NYC.mn](https://dot.nyc.mn) | Free subdomains for individuals and businesses related to New York City. New York City IP address required for application. | ✅ |
 | [Open Domains](https://open-domains.net) | Free subdomains for personal sites, open-source projects, and more. | ✅ |
 | [Open Host](https://registry.openhost.uk) | A free subdomain service offering subdomains on `prvcy.page`, `16-b.it`, `32-b.it`, `64-b.it`, `pride.moe` and `pride.ngo`. | ⚠️ `pride.moe` and `pride.ngo` are not listed. |
 | [pp.ua](https://pp.ua) | Free pp.ua subdomains. | ✅ |
-| [PublicZone.org](https://publiczone.org) | Free subdomains across multiple SLDs (`.nyc.mn`, `.int.al`, `.cn.st` variants) funded through charitable donations or GitHub developers program (free domains for GitHub projects with 100+ stars) | ✅ `.nyc.mn`, `.cn.st` are listed. ⚠️ `.int.al` is not listed. |
 | [us.kg](https://nic.us.kg) | Free subdomain service run by the nonprofit DigitalPlat Foundation, supported by the Hack Foundation. | ✅ |
 | [Zone.ID](https://zone.id/) | Zone.ID is a premium subdomain provider as an alternative to the traditional .id TLD. | ✅ |
 
